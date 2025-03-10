@@ -22,7 +22,7 @@ public class Task_1 {
                 double resultOfMultiplication = numberFirst * numberSecond;
                 System.out.println("A * B = " + resultOfMultiplication);
                 double resultOfDivision = numberFirst / numberSecond;
-                System.out.println("A / B = " + resultOfDivision);
+                System.out.println("A : B = " + resultOfDivision);
             } else System.out.println("Значения должны быть больше 0");
         }
     }
